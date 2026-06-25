@@ -1,4 +1,4 @@
-# gear-up
+# Gear Up
 🇧🇷 Gear Up é o primeiro projeto de um ecossistema SaaS inspirado no sistema solar dentro da Via Láctea, representando o “Sol” como o ponto inicial de origem de toda a arquitetura de produtos futuros.
 Na prática, o Gear Up é um SaaS voltado para oficinas automotivas de qualquer tipo de veículo, criado para organizar e estruturar a gestão desses negócios de forma simples, eficiente e escalável.
 A plataforma auxilia no controle operacional e financeiro da oficina, incluindo gestão de serviços, clientes, estoque, fluxo de caixa e desempenho do negócio, além de incorporar elementos de gamificação para melhorar produtividade e engajamento.
