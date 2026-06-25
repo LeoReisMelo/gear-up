@@ -5,7 +5,6 @@ Na prática, o Gear Up é um SaaS voltado para oficinas automotivas de qualquer 
 A plataforma auxilia no controle operacional e financeiro da oficina, incluindo gestão de serviços, clientes, estoque, fluxo de caixa e desempenho do negócio, além de incorporar elementos de gamificação para melhorar produtividade e engajamento.
 O objetivo é transformar a forma como oficinas são geridas, trazendo mais controle, clareza e crescimento sustentável através da tecnologia.
 
----
 
 🇺🇸 Gear Up is the first project of a SaaS ecosystem inspired by the solar system within the Milky Way, representing the “Sun” as the initial starting point of the entire product architecture.
 In practice, Gear Up is a SaaS platform designed for automotive workshops of all vehicle types, built to organize and structure business management in a simple, efficient, and scalable way.
@@ -17,7 +16,7 @@ Its goal is to transform how workshops are managed by bringing more control, cla
 ## ☀️ Ecosystem Visual Identity
 
 <p align="center">
-  <img src="URL-DA-IMAGEM-DO-SOL" width="180"/>
-  <span style="font-size: 30px;">➖</span>
-  <img src="URL-DO-LOGO-GEAR-UP" width="180"/>
+  <img width="180" height="180" alt="sun" src="https://github.com/user-attachments/assets/e140eff7-5bdc-4530-82cc-bc99dfdee9a9" />
+  <span style="font-size: 30px;"> </span>
+  <img width="180" height="180" alt="gear-up-logo" src="https://github.com/user-attachments/assets/6c72e962-35e6-42f8-9082-76bb837e3594" />
 </p>
