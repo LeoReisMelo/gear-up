@@ -1,0 +1,44 @@
+services:
+  mongodb:
+    image: mongo:8
+
+    container_name: milky-way-databases
+
+    restart: always
+
+    ports:
+      - '27017:27017'
+
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: root
+
+    volumes:
+      - mongodb_data:/data/db
+
+    networks:
+      - backend-net
+
+  redis:
+    image: redis:7
+
+    container_name: shared-redis
+
+    restart: always
+
+    ports:
+      - '6379:6379'
+
+    volumes:
+      - redis_data:/data
+
+    networks:
+      - backend-net
+
+volumes:
+  mongodb_data:
+  redis_data:
+
+networks:
+  backend-net:
+    driver: bridge
